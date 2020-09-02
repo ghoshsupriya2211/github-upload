@@ -1,0 +1,16 @@
+---
+title: "sample_test"
+author: "Supriya"
+date: "9/2/2020"
+output: html_document
+---
+
+```{r}
+cars
+summary(cars)
+```
+
+
+```
+
+
